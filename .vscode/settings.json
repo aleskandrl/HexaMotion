@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/home/rdt/Desktop/HexaMotion/HexaMotion/Controller",
+    "cmake.buildDirectory": "${workspaceFolder}/../build/Controller"
+}
